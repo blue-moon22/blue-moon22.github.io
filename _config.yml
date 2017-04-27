@@ -5,16 +5,16 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: 
-google_analytics: 
-title: 
+disqus: dbyll
+google_analytics: dbyll
+title: dbyll
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: 
+      title: dbyll
 
 description: Vicky @ Work
 author:

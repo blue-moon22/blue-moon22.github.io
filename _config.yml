@@ -5,34 +5,34 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: 
+google_analytics: 
+title: 
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: 
 
-description: Stylish Jekyll Theme
+description: Vicky @ Work
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Vicky Butt
+  email: vicky.butt10@gmail.com
+  github: blue-moon22
+  twitter: @victoriabutt1
+  pinterest: 
+  linkedin: victoria-butt-31b2aa126
+  bio: Bioinformatics PhD Student at King's College London and Editor for Innovation Forum
+  email_md5: a83005f424ddfa34d66d9eee3dc4ce7f
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+sidebar_background_image: /assets/media/about.jpg
 
 BASE_PATH:
 
